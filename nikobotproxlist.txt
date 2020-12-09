@@ -1019,3 +1019,184 @@ Hertford	Stevenage	High anonymity	1215 kB/s
 3.3%
 332 ms
 3 hours ago
+72.249.235.194	54321	SOCKS4	
+United States United States
+Colorado	Cedaredge	High anonymity	1195 kB/s
+65%
+331 ms
+8 hours ago
+192.111.137.35	4145	SOCKS5	
+United States United States
+Georgia	Atlanta	High anonymity	1192 kB/s
+100%
+1418 ms
+7 hours ago
+45.5.119.86	4153	SOCKS4	
+Guatemala Guatemala
+High anonymity	1178 kB/s
+88.7%
+360 ms
+3 hours ago
+192.111.130.2	4145	SOCKS5	
+United States United States
+Georgia	Atlanta	High anonymity	1166 kB/s
+100%
+398 ms
+4 hours ago
+
+ 
+168.169.146.12	8080	HTTP	
+United States United States
+New York	Buffalo	Transparent	1124 kB/s
+60.9%
+263 ms
+8 hours ago
+178.62.121.182	1080	SOCKS5	
+United Kingdom United Kingdom
+Slough	London	High anonymity	1122 kB/s
+48%
+488 ms
+5 hours ago
+88.202.177.242	1080	SOCKS5	
+Netherlands Netherlands
+Noord-Holland	Amsterdam	High anonymity	1110 kB/s
+80.6%
+5862 ms
+3 hours ago
+209.160.72.18	3128	HTTPS	
+United States United States
+High anonymity	1080 kB/s
+8.4%
+182 ms
+7 hours ago
+173.236.181.108	30967	SOCKS5	
+United States United States
+California	Brea	High anonymity	1072 kB/s
+9344 ms
+4 hours ago
+50.246.120.125	26820	SOCKS4	
+United States United States
+District of Columbia	Washington	High anonymity	1064 kB/s
+57.2%
+142 ms
+5 hours ago
+24.139.143.226	4153	SOCKS4	
+Puerto Rico Puerto Rico
+High anonymity	1063 kB/s
+77.2%
+420 ms
+7 hours ago
+190.120.254.17	4145	SOCKS4	
+Venezuela Venezuela
+Vargas	La Guaira	High anonymity	1054 kB/s
+15754 ms
+4 hours ago
+165.22.81.30	36620	HTTPS	
+United States United States
+Washington	Seattle	High anonymity	1048 kB/s
+2.5%
+738 ms
+5 hours ago
+189.201.191.67	4145	SOCKS4	
+Mexico Mexico
+Aguascalientes	Aguascalientes	High anonymity	1031 kB/s
+47.5%
+310 ms
+7 hours ago
+200.6.175.10	59341	SOCKS4	
+Colombia Colombia
+Antioquia	Medellin	High anonymity	1022 kB/s
+88.2%
+389 ms
+8 hours ago
+12.109.102.86	64312	SOCKS4	
+United States United States
+West Virginia	Parkersburg	High anonymity	1019 kB/s
+81.8%
+3234 ms
+4 hours ago
+50.207.130.198	54321	SOCKS4	
+United States United States
+Illinois		High anonymity	1014 kB/s
+77.3%
+3294 ms
+5 hours ago
+152.26.66.140	3128	HTTPS	
+United States United States
+North Carolina	Hickory	Transparent	1003 kB/s
+97.2%
+498 ms
+5 hours ago
+49.12.4.194	13018	SOCKS5	
+India India
+High anonymity	973 kB/s
+4.8%
+645 ms
+3 hours ago
+173.254.222.170	1080	SOCKS5	
+United States United States
+California	Los Angeles	High anonymity	970 kB/s
+89.7%
+665 ms
+4 hours ago
+63.249.67.70	12328	SOCKS4	
+United States United States
+California	Santa Cruz	High anonymity	967 kB/s
+66.5%
+392 ms
+7 hours ago
+86.28.76.188	4145	SOCKS4	
+United Kingdom United Kingdom
+Cardiff	Cardiff	High anonymity	964 kB/s
+12.7%
+438 ms
+4 hours ago
+168.138.250.242	80	HTTP	
+United States United States
+California	Redwood City	High anonymity	953 kB/s
+59.2%
+1023 ms
+7 hours ago
+
+ 
+86.125.122.27	80	HTTPS	
+Romania Romania
+Brasov	Brasov	High anonymity	942 kB/s
+694 ms
+8 hours ago
+185.34.88.5	4145	SOCKS4	
+Germany Germany
+Rheinland-Pfalz	Norheim	High anonymity	939 kB/s
+58.5%
+477 ms
+8 hours ago
+190.103.28.14	4145	SOCKS4	
+Venezuela Venezuela
+Carabobo	Valencia	High anonymity	934 kB/s
+63.4%
+395 ms
+6 hours ago
+173.254.222.162	1090	SOCKS5	
+United States United States
+California	Los Angeles	High anonymity	930 kB/s
+92.8%
+846 ms
+4 hours ago
+136.243.254.196	80	HTTP	
+Germany Germany
+Anonymous	929 kB/s
+94.2%
+630 ms
+3 hours ago
+208.113.221.229	43141	SOCKS4	
+United States United States
+California	Brea	High anonymity	904 kB/s
+55.6%
+17490 ms
+7 hours ago
+201.184.135.155	4145	SOCKS4	
+Colombia Colombia
+Antioquia	Medellin	High anonymity	899 kB/s
+87.3%
+398 ms
+5 hours ago

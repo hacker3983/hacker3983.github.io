@@ -254,3 +254,516 @@ SOCKS4	High	4 minutes
 500 ms
 
 SOCKS4	High	4 minutes
+14.102.44.1	44047	India	
+4600 ms
+
+HTTP	High	59 seconds
+111.93.233.107	8080	India Noida	
+4460 ms
+
+HTTP	no	1 minutes
+103.81.214.254	83	India Faridabad	
+5100 ms
+
+HTTP	no	1 minutes
+103.35.135.2	83	India Pune	
+5100 ms
+
+HTTP	no	1 minutes
+103.216.82.211	6667	India Ahmedabad	
+4900 ms
+
+SOCKS5	High	1 minutes
+103.251.225.18	35101	India	
+3720 ms
+
+HTTP	High	1 minutes
+103.216.82.30	6667	India Ahmedabad	
+5100 ms
+
+SOCKS5	High	1 minutes
+103.216.82.46	6667	India Ahmedabad	
+2180 ms
+
+SOCKS4, SOCKS5	High	1 minutes
+139.59.90.148	14066	India Bengaluru	
+5100 ms
+
+SOCKS4, SOCKS5	High	1 minutes
+160.2.59.45	8080	United States Pocatello	
+5100 ms
+
+HTTP	High	2 minutes
+206.189.37.192	80	Singapore	
+4900 ms
+
+HTTP	High	2 minutes
+104.248.90.212	80	Netherlands Amsterdam	
+3580 ms
+
+HTTP	High	2 minutes
+96.18.70.146	3128	United States Star	
+1040 ms
+
+HTTP	Low	2 minutes
+18.132.18.81	80	United Kingdom London	
+2060 ms
+
+HTTP	High	2 minutes
+100.24.216.83	80	United States Ashburn	
+560 ms
+
+HTTP, HTTPS	no	2 minutes
+103.57.80.58	4145	India Bengaluru	
+1020 ms
+
+SOCKS4	High	3 minutes
+103.29.156.142	1080	India	
+800 ms
+
+SOCKS4	High	3 minutes
+103.143.84.72	44550	India	
+2040 ms
+
+SOCKS4	High	3 minutes
+103.234.137.130	51207	India Jammu	
+2220 ms
+
+SOCKS4	High	3 minutes
+183.87.153.98	48785	India Pune	
+820 ms
+
+SOCKS4	High	3 minutes
+114.143.25.156	30423	India Mumbai	
+900 ms
+
+SOCKS4	High	3 minutes
+125.99.100.193	53826	India Mumbai	
+880 ms
+
+SOCKS4	High	3 minutes
+103.253.154.155	41762	India Faridabad	
+1000 ms
+
+SOCKS4	High	4 minutes
+171.100.8.82	49181	Thailand Bangkok	
+2100 ms
+
+SOCKS4	High	8 minutes
+82.155.28.72	34245	Portugal Tarouca	
+3560 ms
+
+SOCKS4	High	8 minutes
+118.172.201.32	45410	Thailand Bangkok	
+1920 ms
+
+SOCKS4	High	8 minutes
+103.69.20.42	4145	India Bengaluru	
+2000 ms
+
+SOCKS4	High	8 minutes
+186.211.6.137	4145	Brazil Brumado	
+1500 ms
+
+SOCKS4	High	8 minutes
+89.188.117.71	4153	Russian Federation Moscow	
+1300 ms
+
+SOCKS4	High	8 minutes
+203.189.141.56	4153	Cambodia Phnom Penh	
+1220 ms
+
+SOCKS4	High	8 minutes
+186.237.161.50	4145	Brazil Angra dos Reis	
+1260 ms
+
+SOCKS4	High	8 minutes
+193.56.255.133	3128	Romania	
+3240 ms
+
+HTTP, HTTPS	High	8 minutes
+185.156.172.122	3128	Netherlands Amsterdam	
+960 ms
+
+HTTP, HTTPS	High	9 minutes
+192.109.165.41	80	Germany Frankfurt am Main	
+480 ms
+
+HTTP	High	9 minutes
+192.109.165.239	80	Germany Frankfurt am Main	
+460 ms
+
+HTTP	High	9 minutes
+191.101.39.218	80	Singapore Singapore	
+480 ms
+
+HTTP	High	9 minutes
+173.212.202.65	80	Germany	
+1240 ms
+
+HTTP	High	10 minutes
+79.143.180.10	29840	Germany Munich	
+920 ms
+
+SOCKS4	High	10 minutes
+51.75.66.172	3129	France	
+3260 ms
+
+HTTP	no	10 minutes
+85.14.243.31	3128	Germany Wegberg	
+3160 ms
+
+HTTP	no	10 minutes
+47.254.129.46	9000	United States	
+4120 ms
+
+SOCKS4, SOCKS5	High	10 minutes
+176.9.75.42	8080	Germany	
+220 ms
+
+HTTP	High	10 minutes
+5.189.130.21	1080	Germany Nuremberg	
+4920 ms
+
+SOCKS4, SOCKS5	High	10 minutes
+78.47.16.54	80	Germany Munich	
+1040 ms
+
+HTTP	High	10 minutes
+51.75.147.44	3128	France	
+2000 ms
+
+HTTP	High	10 minutes
+46.4.96.137	3128	Germany	
+200 ms
+
+HTTP	High	10 minutes
+88.198.50.103	3128	Germany Nuremberg	
+220 ms
+
+HTTP	High	10 minutes
+192.109.165.108	80	Germany Frankfurt am Main	
+480 ms
+
+HTTP	High	10 minutes
+88.198.24.108	3128	Germany Nuremberg	
+220 ms
+
+HTTP	High	10 minutes
+176.9.119.170	3128	Germany	
+220 ms
+
+HTTP	High	10 minutes
+51.75.147.41	3128	France	
+340 ms
+
+HTTP	High	10 minutes
+88.198.50.103	8080	Germany Nuremberg	
+220 ms
+
+HTTP	High	10 minutes
+88.198.24.108	8080	Germany Nuremberg	
+240 ms
+
+HTTP	High	10 minutes
+176.9.75.42	3128	Germany	
+220 ms
+
+HTTP	High	10 minutes
+46.4.96.137	8080	Germany	
+220 ms
+
+HTTP	High	10 minutes
+176.9.119.170	8080	Germany	
+240 ms
+
+HTTP	High	10 minutes
+170.247.43.142	32812	Brazil Marica	
+4240 ms
+
+SOCKS4	High	13 minutes
+62.133.130.122	4145	Poland Rzeszów	
+3220 ms
+
+SOCKS4	High	13 minutes
+119.82.253.175	52162	Cambodia Phnom Penh	
+2200 ms
+
+SOCKS4	High	13 minutes
+136.228.128.159	51327	Cambodia Phnom Penh	
+1800 ms
+
+SOCKS4	High	13 minutes
+119.82.251.250	31678	Cambodia Phnom Penh	
+2160 ms
+
+SOCKS4	High	13 minutes
+116.212.131.174	36362	Cambodia Phnom Penh	
+4620 ms
+
+SOCKS4	High	13 minutes
+96.9.72.242	1081	Cambodia Phnom Penh	
+3820 ms
+
+SOCKS4	High	13 minutes
+103.9.188.229	46519	Cambodia Phnom Penh	
+1260 ms
+
+SOCKS4	High	13 minutes
+IP address	Port	Country, City	Speed	Type	Anonymity	Latest update
+36.37.139.2	59296	Cambodia	
+1360 ms
+
+SOCKS4	High	14 minutes
+119.82.252.29	61587	Cambodia Phnom Penh	
+1280 ms
+
+SOCKS4	High	14 minutes
+175.100.103.132	1081	Cambodia Phnom Penh	
+1360 ms
+
+SOCKS4	High	14 minutes
+43.245.202.15	1099	Cambodia	
+4680 ms
+
+SOCKS4	High	14 minutes
+110.74.222.71	54970	Cambodia	
+5100 ms
+
+SOCKS4	High	14 minutes
+203.189.146.230	32033	Cambodia	
+1480 ms
+
+SOCKS4	High	14 minutes
+175.100.47.144	51080	Cambodia Phnom Penh	
+1240 ms
+
+SOCKS4	High	14 minutes
+136.228.131.109	4153	Cambodia Phnom Penh	
+3820 ms
+
+SOCKS4	High	14 minutes
+96.9.79.233	58618	Cambodia	
+3820 ms
+
+SOCKS4	High	14 minutes
+96.9.77.203	1081	Cambodia Phnom Penh	
+1840 ms
+
+SOCKS4	High	14 minutes
+175.100.72.95	55360	Cambodia	
+2180 ms
+
+SOCKS4	High	14 minutes
+203.176.140.78	1080	Cambodia Phnom Penh	
+1100 ms
+
+SOCKS4	High	14 minutes
+111.118.128.140	42081	Cambodia Phnom Penh	
+1300 ms
+
+SOCKS4	High	14 minutes
+85.117.235.155	1080	Russian Federation Moscow	
+3360 ms
+
+SOCKS4, SOCKS5	High	14 minutes
+144.76.99.207	1106	Germany	
+4300 ms
+
+SOCKS4, SOCKS5	High	14 minutes
+91.230.154.221	4145	Russian Federation	
+2300 ms
+
+SOCKS4	High	14 minutes
+96.9.75.231	4145	Cambodia	
+1660 ms
+
+SOCKS4	High	14 minutes
+188.235.133.102	1080	Russian Federation Saratov	
+20 ms
+
+SOCKS4	High	14 minutes
+37.195.209.169	4153	Russian Federation Novosibirsk	
+1200 ms
+
+SOCKS4	High	14 minutes
+79.134.7.134	49230	Russian Federation Magnitogorsk	
+1340 ms
+
+SOCKS4	High	14 minutes
+175.100.18.45	41575	Cambodia Phnom Penh	
+1500 ms
+
+SOCKS4	High	14 minutes
+203.217.169.89	4153	Cambodia Phnom Penh	
+820 ms
+
+SOCKS4	High	14 minutes
+109.70.189.51	3629	Russian Federation Izberbash	
+240 ms
+
+SOCKS4	High	14 minutes
+82.142.147.174	4145	Russian Federation Moscow	
+1180 ms
+
+SOCKS4	High	14 minutes
+217.168.76.230	33032	Russian Federation Kaliningrad	
+320 ms
+
+SOCKS4	High	14 minutes
+91.221.52.49	3629	Russian Federation	
+1280 ms
+
+SOCKS4	High	14 minutes
+91.207.238.107	45627	Russian Federation Balakovo	
+140 ms
+
+SOCKS4	High	14 minutes
+119.82.249.4	32645	Cambodia Phnom Penh	
+1180 ms
+
+SOCKS4	High	14 minutes
+85.116.120.106	3629	Russian Federation Miass	
+1400 ms
+
+SOCKS4	High	14 minutes
+212.12.20.34	45470	Russian Federation Tula	
+3780 ms
+
+SOCKS4	High	14 minutes
+119.82.253.24	61910	Cambodia Phnom Penh	
+1200 ms
+
+SOCKS4	High	14 minutes
+124.248.189.39	3629	Cambodia	
+1160 ms
+
+SOCKS4	High	14 minutes
+195.206.34.215	40674	Russian Federation Irkutsk	
+1320 ms
+
+SOCKS4	High	14 minutes
+95.140.27.135	59193	Russian Federation Moscow	
+1440 ms
+
+SOCKS4	High	14 minutes
+178.19.247.25	41624	Russian Federation Petrozavodsk	
+1160 ms
+
+SOCKS4	High	14 minutes
+158.58.131.27	53058	Russian Federation Sochi	
+220 ms
+
+SOCKS4	High	14 minutes
+194.135.75.74	34768	Russian Federation Moscow	
+140 ms
+
+SOCKS4	High	14 minutes
+194.135.15.6	40040	Russian Federation Moscow	
+1140 ms
+
+SOCKS4	High	14 minutes
+212.67.0.150	50090	Russian Federation Nizhniy Novgorod	
+360 ms
+
+SOCKS4	High	14 minutes
+178.165.44.122	1080	Ukraine Kharkiv	
+140 ms
+
+SOCKS5	High	14 minutes
+212.3.146.80	3629	Russian Federation Smolensk	
+280 ms
+
+SOCKS4	High	14 minutes
+95.84.141.162	3629	Russian Federation Reutov	
+3120 ms
+
+SOCKS4	High	14 minutes
+80.240.254.139	4153	Russian Federation Kursk	
+300 ms
+
+SOCKS4	High	14 minutes
+77.121.14.86	4153	Russian Federation	
+940 ms
+
+SOCKS4	High	14 minutes
+80.240.250.222	4145	Russian Federation Kursk	
+300 ms
+
+SOCKS4	High	14 minutes
+95.31.5.29	51528	Russian Federation Moscow	
+1160 ms
+
+SOCKS4	High	14 minutes
+77.236.76.74	54182	Russian Federation Khandyga	
+1620 ms
+
+SOCKS4	High	14 minutes
+83.219.139.66	4145	Russian Federation Kaliningrad	
+200 ms
+
+SOCKS4	High	14 minutes
+84.54.202.216	4145	Russian Federation Yessentuki	
+300 ms
+
+SOCKS4	High	14 minutes
+194.135.97.126	4145	Russian Federation Dzerzhinskiy	
+100 ms
+
+SOCKS4	High	14 minutes
+95.141.193.14	80	Russian Federation	
+0 ms
+
+HTTP	High	14 minutes
+31.210.217.69	3629	Russian Federation Lipetsk	
+1060 ms
+
+SOCKS4	High	14 minutes
+95.141.193.35	80	Russian Federation Saratov	
+0 ms
+
+HTTP	High	14 minutes
+176.74.11.254	33207	Russian Federation Moscow	
+100 ms
+
+SOCKS4	High	14 minutes
+176.9.75.42	1080	Germany	
+320 ms
+
+SOCKS5	High	14 minutes
+88.202.177.242	1080	Netherlands Amsterdam	
+480 ms
+
+SOCKS5	High	14 minutes
+88.202.177.242	1085	Netherlands Amsterdam	
+380 ms
+
+SOCKS4, SOCKS5	High	14 minutes
+88.202.177.242	1090	Netherlands Amsterdam	
+480 ms
+
+SOCKS5	High	14 minutes
+134.249.161.145	1080	Ukraine Kyzyl-Yar	
+180 ms
+
+SOCKS5	High	14 minutes
+194.186.168.50	44550	Russian Federation Moscow	
+1120 ms
+
+SOCKS4	High	15 minutes
+187.62.88.7	4153	Brazil Ipojuca	
+1360 ms
+
+SOCKS4	High	15 minutes
+213.33.179.243	4153	Russian Federation Mytishchi	
+100 ms
+
+SOCKS4	High	15 minutes
+115.75.3.137	4145	Vietnam Ho Chi Minh City	
+1420 ms
+
+SOCKS4	High	15 minutes
+195.239.115.106	42020	Russian Federation	
+1280 ms
+
+SOCKS4	High	15 minutes

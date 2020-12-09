@@ -1,0 +1,256 @@
+51.79.79.111	3128	Canada Beauharnois	
+4520 ms
+
+HTTP	no	3 minutes
+117.242.147.109	4153	India	
+2140 ms
+
+SOCKS4	High	3 minutes
+175.100.47.144	51080	Cambodia Phnom Penh	
+2240 ms
+
+SOCKS4	High	3 minutes
+195.154.207.39	3128	France	
+300 ms
+
+HTTP	no	3 minutes
+36.89.188.123	48183	Indonesia Tangerang	
+1020 ms
+
+SOCKS4	High	3 minutes
+115.85.65.150	42765	Indonesia Jakarta	
+1140 ms
+
+SOCKS4	High	3 minutes
+114.35.188.117	4145	Taiwan	
+1680 ms
+
+SOCKS4	High	3 minutes
+201.193.180.14	50721	Costa Rica Heredia	
+1120 ms
+
+SOCKS4	High	3 minutes
+69.65.65.178	35727	United States Pompano Beach	
+2320 ms
+
+SOCKS4	High	3 minutes
+91.196.150.45	3629	Ukraine Vyshneve	
+3100 ms
+
+SOCKS4	High	3 minutes
+72.195.34.41	4145	United States	
+2160 ms
+
+SOCKS4, SOCKS5	High	3 minutes
+77.91.82.105	4145	Russian Federation Moscow	
+80 ms
+
+SOCKS4	High	3 minutes
+98.185.94.76	4145	United States	
+3140 ms
+
+SOCKS4, SOCKS5	High	3 minutes
+186.159.3.193	45524	Colombia Bello	
+1040 ms
+
+SOCKS4	High	3 minutes
+96.9.74.139	8291	Cambodia Phnom Penh	
+3840 ms
+
+SOCKS4	High	3 minutes
+72.221.164.35	60670	United States	
+1060 ms
+
+SOCKS4, SOCKS5	High	3 minutes
+116.202.185.45	1085	Germany	
+3920 ms
+
+SOCKS5	High	3 minutes
+149.129.61.6	1080	Singapore	
+4960 ms
+
+SOCKS4	High	3 minutes
+103.124.136.77	4145	Indonesia	
+2080 ms
+
+SOCKS4	High	3 minutes
+177.54.224.222	33633	Brazil Arapoema	
+2320 ms
+
+SOCKS4	High	4 minutes
+184.185.2.244	4145	United States	
+2040 ms
+
+SOCKS4, SOCKS5	High	4 minutes
+102.67.68.1	1080	South Africa	
+2080 ms
+
+SOCKS4	High	4 minutes
+149.34.6.162	4145	Spain Barcelona	
+380 ms
+
+SOCKS4	High	4 minutes
+195.210.172.43	58350	Russian Federation Moscow	
+120 ms
+
+SOCKS4	High	4 minutes
+154.79.246.178	59103	Kenya	
+4260 ms
+
+SOCKS4	High	4 minutes
+98.185.94.94	4145	United States	
+5100 ms
+
+SOCKS4, SOCKS5	High	4 minutes
+192.111.135.21	4145	United States	
+940 ms
+
+SOCKS4, SOCKS5	High	4 minutes
+95.165.163.188	36496	Russian Federation Ramenskoye	
+600 ms
+
+SOCKS4	High	4 minutes
+123.200.26.22	52667	Bangladesh Dhaka	
+1380 ms
+
+SOCKS4	High	4 minutes
+185.156.172.122	3128	Netherlands Amsterdam	
+4020 ms
+
+HTTP, HTTPS	High	4 minutes
+1.10.141.220	54620	Thailand Bangkok	
+3700 ms
+
+HTTP	High	4 minutes
+213.6.66.66	57391	Palestinian Territory Nablus	
+600 ms
+
+SOCKS4	High	4 minutes
+59.91.122.57	44550	India	
+2080 ms
+
+SOCKS4	High	4 minutes
+117.20.56.203	4145	Indonesia Sukoharjo	
+1200 ms
+
+SOCKS4	High	4 minutes
+200.94.140.50	40695	Mexico Cuaxomulco	
+1020 ms
+
+SOCKS4	High	4 minutes
+46.253.39.142	57136	Spain Barcelona	
+520 ms
+
+SOCKS4	High	4 minutes
+43.224.8.124	6667	India Surendranagar	
+3760 ms
+
+SOCKS4	High	4 minutes
+190.182.88.214	30956	Colombia Medellín	
+2000 ms
+
+SOCKS4	High	4 minutes
+43.224.8.125	6667	India Vadodara	
+3560 ms
+
+SOCKS4	High	4 minutes
+138.99.93.62	4145	Brazil Baturite	
+1180 ms
+
+SOCKS4	High	4 minutes
+159.192.104.53	8080	Thailand	
+3980 ms
+
+HTTP	no	4 minutes
+138.0.102.246	31533	Brazil Poços de Caldas	
+2240 ms
+
+SOCKS4	High	4 minutes
+103.109.58.45	1080	Bangladesh Dhaka	
+2260 ms
+
+SOCKS4	High	4 minutes
+83.168.86.189	8090	Poland Szczecin	
+1680 ms
+
+HTTP	no	4 minutes
+200.80.227.234	4145	Argentina Buenos Aires	
+1480 ms
+
+SOCKS4	High	4 minutes
+78.47.16.54	80	Germany Munich	
+1440 ms
+
+HTTP	High	4 minutes
+94.28.8.61	8080	Russian Federation Krasnodar	
+3040 ms
+
+HTTP	no	4 minutes
+213.108.18.34	43902	Russian Federation Moscow	
+2080 ms
+
+SOCKS4	High	4 minutes
+190.196.66.75	33371	Chile Lo Barnechea	
+4460 ms
+
+SOCKS4	High	4 minutes
+203.217.169.89	4153	Cambodia Phnom Penh	
+820 ms
+
+SOCKS4	High	4 minutes
+197.221.158.186	1080	Uganda Kampala	
+3920 ms
+
+SOCKS4	High	4 minutes
+178.162.202.44	1124	Germany	
+3960 ms
+
+SOCKS4	High	4 minutes
+175.141.69.203	80	Malaysia Kuala Lumpur	
+4020 ms
+
+HTTP	Low	4 minutes
+109.238.223.1	51372	Czech Republic Neratovice	
+340 ms
+
+SOCKS4	High	4 minutes
+189.51.97.126	1080	Brazil Santa Maria do Salto	
+4300 ms
+
+SOCKS4	High	4 minutes
+186.233.98.146	30161	Brazil Palmas	
+1340 ms
+
+SOCKS4	High	4 minutes
+50.237.206.138	64312	United States	
+780 ms
+
+SOCKS4	High	4 minutes
+91.237.127.162	4145	Ukraine Odessa	
+140 ms
+
+SOCKS4	High	4 minutes
+92.51.73.14	4153	Georgia	
+1540 ms
+
+SOCKS4	High	4 minutes
+131.161.108.209	4145	Brazil Caucaia	
+1280 ms
+
+SOCKS4	High	4 minutes
+177.86.181.206	49019	Brazil Araruna	
+1440 ms
+
+SOCKS4	High	4 minutes
+113.160.130.13	1080	Vietnam Hanoi	
+1660 ms
+
+SOCKS4	High	4 minutes
+1.10.187.140	8291	Thailand Bangkok	
+940 ms
+
+SOCKS4	High	4 minutes
+84.122.1.218	4153	Spain Jaén	
+500 ms
+
+SOCKS4	High	4 minutes

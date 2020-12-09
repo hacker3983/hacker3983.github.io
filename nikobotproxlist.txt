@@ -836,3 +836,186 @@ SOCKS4	High	15 minutes
 146.59.144.201:3128	transparent	Dec-09, 13:07	Norway	 	Tandberg Data
 146.59.226.253:3128	transparent	Dec-08, 18:14	Norway	 	Tandberg Data
 147.91.111.133:37979	elite	Dec-08, 19:02	Serbia	 	Akademska mreza...
+54.234.102.104	80	HTTP	
+United States United States
+Virginia	Ashburn	High anonymity	6431 kB/s
+283 ms
+6 hours ago
+67.207.83.225	80	HTTP	
+United States United States
+New Jersey	North Bergen	Transparent	6010 kB/s
+97.6%
+60 ms
+4 hours ago
+198.27.108.198	8020	SOCKS5	
+Canada Canada
+Quebec	Montréal	High anonymity	2897 kB/s
+18.3%
+1917 ms
+3 hours ago
+198.50.177.44	44699	SOCKS4	
+Canada Canada
+Quebec	Montréal	High anonymity	2663 kB/s
+47.1%
+2 ms
+6 hours ago
+
+ 
+205.202.38.126	8080	HTTP	
+United States United States
+Nebraska	Lincoln	Transparent	2527 kB/s
+74.6%
+477 ms
+3 hours ago
+168.169.96.2	8080	HTTPS	
+United States United States
+New York	Wellsville	Transparent	2356 kB/s
+99.5%
+270 ms
+7 hours ago
+54.39.184.122	80	HTTP	
+Canada Canada
+Quebec	Montréal	Transparent	2347 kB/s
+100%
+156 ms
+5 hours ago
+64.235.204.107	8080	HTTPS	
+Canada Canada
+Ontario	Cornwall	Anonymous	2055 kB/s
+100%
+30 ms
+7 hours ago
+70.83.106.82	55801	SOCKS4	
+Canada Canada
+Quebec	Montréal	High anonymity	1848 kB/s
+69.1%
+71 ms
+6 hours ago
+83.96.237.121	80	HTTP	
+Netherlands Netherlands
+High anonymity	1784 kB/s
+60.2%
+440 ms
+4 hours ago
+89.187.177.103	80	HTTP	
+Czech Republic Czech Republic
+Anonymous	1764 kB/s
+54%
+172 ms
+8 hours ago
+50.237.206.138	64312	SOCKS4	
+United States United States
+High anonymity	1743 kB/s
+74.3%
+7386 ms
+5 hours ago
+89.187.177.93	80	HTTP	
+Czech Republic Czech Republic
+Anonymous	1740 kB/s
+63%
+89 ms
+6 hours ago
+70.82.75.118	4153	SOCKS4	
+Canada Canada
+Quebec	Les Escoumins	High anonymity	1722 kB/s
+55.6%
+111 ms
+7 hours ago
+51.158.76.17	3128	HTTPS	
+France France
+Ile-de-France	Paris	Transparent	1708 kB/s
+85.7%
+1947 ms
+3 hours ago
+96.18.70.146	3128	HTTPS	
+United States United States
+Idaho	Star	Anonymous	1612 kB/s
+87.5%
+7449 ms
+5 hours ago
+51.254.98.24	80	HTTP	
+France France
+High anonymity	1590 kB/s
+98.4%
+552 ms
+5 hours ago
+148.251.160.242	80	HTTP	
+Germany Germany
+Anonymous	1588 kB/s
+100%
+497 ms
+3 hours ago
+199.119.74.245	4145	SOCKS4	
+United States United States
+New York	Long Beach	High anonymity	1563 kB/s
+53.4%
+38 ms
+8 hours ago
+161.97.121.125	3128	HTTPS	
+United States United States
+Colorado	Boulder	Transparent	1468 kB/s
+85%
+7727 ms
+5 hours ago
+45.73.41.194	4145	SOCKS4	
+Canada Canada
+Quebec	Sherbrooke	High anonymity	1412 kB/s
+71.4%
+82 ms
+6 hours ago
+95.217.210.24	3128	HTTPS	
+Finland Finland
+Transparent	1386 kB/s
+52.2%
+558 ms
+6 hours ago
+51.79.79.111	3128	HTTPS	
+France France
+Transparent	1374 kB/s
+42.7%
+126 ms
+7 hours ago
+
+ 
+70.82.34.55	4153	SOCKS4	
+Canada Canada
+Quebec	Laval	High anonymity	1367 kB/s
+81.8%
+45 ms
+7 hours ago
+192.111.135.21	4145	SOCKS5	
+United States United States
+Georgia	Atlanta	High anonymity	1310 kB/s
+100%
+396 ms
+7 hours ago
+51.83.134.249	3128	HTTPS	
+France France
+Transparent	1307 kB/s
+99.6%
+656 ms
+6 hours ago
+158.69.243.148	9999	SOCKS5	
+Canada Canada
+Quebec	Montréal	High anonymity	1252 kB/s
+21.7%
+33477 ms
+4 hours ago
+192.111.129.150	4145	SOCKS5	
+United States United States
+Georgia	Atlanta	High anonymity	1249 kB/s
+100%
+402 ms
+8 hours ago
+192.252.215.5	16137	SOCKS5	
+United States United States
+Georgia	Atlanta	High anonymity	1226 kB/s
+94%
+396 ms
+4 hours ago
+167.172.203.244	8118	HTTP	
+United Kingdom United Kingdom
+Hertford	Stevenage	High anonymity	1215 kB/s
+3.3%
+332 ms
+3 hours ago

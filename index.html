@@ -1,47 +1,152 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<style>
 		body {
-			background-color: #121212;
-			color: dodgerblue;
-			text-align: center;
-			font-size: 20px;
-		}
-		ul li {
-			width: 400px;
-			text-align: left;
-		}
-		div {
-			background-color: black;
-			border-color: red;
-			border-style: dotted;
-			border-width: 120px;
+			background-color: #342E37;
+			color: /*#9FD356*/#FAFFFD;
+			margin: 0;
+			/*text-align: center;*/
 		}
 
-		#projects {
-			width: 500px;
+		li a {
+			float: left;
+			color: #FAFFFD;
+			display: block;
+			padding: 14px 16px;
+			font-size: 30px;
+			text-decoration: none;
+		}
+
+		li a:hover {
+			color: #FA824C;
 		}
 
 		ul {
-			list-style-position: inside;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+			width: 100%;
+			text-align: center;
+			list-style-type: none;
+		}
+
+		li .other {
+			color: #BA5A31;
+			float: right;
+		}
+
+		li .author {
+			color: #9FD356/*#69DC9E*/;
+		}
+
+		.tooltip {
+			position: relative;
+			display: inline-block;
+		}
+
+		.tooltip .tooltip-text {
+			visibility: hidden;
+			width: 100px;
+			background-color: #231F20;
+			color: white;
+			text-align: center;
+			padding: 10px 0 10px 0;
+			font-size: 15px;
+
+			position: absolute;
+			/*z-index: 1;*/
+			top: 30px;
+			right: 20px;
+		}
+		.tooltip:hover .tooltip-text {
+			visibility: visible;
+		}
+
+		#video {
+			height: 100%;
+			width: 800px;
+			background-color: #4B7F52;
+			margin: auto;
+			margin-bottom: 10px;
+			/*border-bottom: white solid 10px;*/
 		}
 	</style>
 </head>
-<body>
-	<h1> Welcome to hacker3983 </h1>
-	<center>
-	<div>
-		<ul>
-			<h1> Projects </h1>
-			<li><a target="_blank" href="https://github.com/hacker3983/list"> C Dynamic List </a></li>
-			<li><a target="_blank" href="https://github.com/hacker3983/cppprojects"> C++ Projects </a></li>
-			<li><a target="_blank" href="https://urlshortener.shadowbrokers.repl.co"> URL SHORTENER </a></li>
-			<li><a target="_blank" href="https://github.com/hacker3983/math-lexer"> Math Expression Lexer </a></li>
-			<li><a target="_blank" href="https://github.com/hacker3983/uname-clone"> Linux Uname Command Clone </a></li>
-			<li><a target="_blank" href="/keyboards"> Javascript keyboard event detector </a></li>
-		</ul>
-	</div>
-	</center>
+<body>	
+	<ul style="height: 80px; border-bottom: 2px solid white;">	
+		<li>
+			<a class="author" target="_self" href="">
+				<div class="tooltip">Hacker3983<span class="tooltip-text">Hacker3983</span>
+				</div>
+			</a>
+		</li>
+		
+		<li>
+			<a class="other" target="_blank" href="https://www.youtube.com/@thepcexpert9830">
+				<div class="tooltip"><span class="tooltip-text">Youtube</span>
+				<i class="fa fa-youtube"></i>
+				</div>
+			</a>
+		</li>
+		
+		<li>
+			<a class="other" target="_blank" href="https://github.com/hacker3983">
+				<div class="tooltip"><span class="tooltip-text">Github</span>
+				<i class="fa fa-github"></i>
+				</div>
+			</a>
+		</li>
+
+		<li>
+			<a class="other" target="_blank" href="https://twitter.com/catsanddogs0">
+				<div class="tooltip"><span class="tooltip-text">Twitter</span>
+				<i class="fa fa-twitter"></i>
+				</div>
+			</a>
+		</li>
+	
+
+		<li>
+			<a class="other" target="_self" href="/about.html">
+				<div class="tooltip"><span class="tooltip-text">About me</span>
+				<i class="fa fa-user"></i>
+				</div>
+			</a>
+		</li>
+	</ul>
+	<br>
+	<ul>
+		<li>
+		<div id="video">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/cUeFkAZFgl8"
+	title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		</li>
+		
+		<li>
+		<div id="video">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/tiVC4VlK-ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		</li>
+
+		<li>
+		<div id="video">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/DF2Kd7MgPz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</li>
+
+		<li>
+		<div id="video">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/h6R3YHsE0vk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		</li>
+
+		<li>
+		<div id="video">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/k_XT_r7mlaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		</li>
+	</ul>
 </body>
 </html>
